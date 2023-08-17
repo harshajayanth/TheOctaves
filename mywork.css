@@ -1,0 +1,16 @@
+.video{
+    border-radius: 15px;
+    border: black 5px;
+}
+.video:hover
+{
+    width: 92%;
+    opacity: 85%;
+}
+.imgg{
+    background: lightgoldenrodyellow;
+}
+.imgg:hover
+{
+    opacity: 85%;
+}

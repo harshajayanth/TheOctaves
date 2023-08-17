@@ -1,0 +1,55 @@
+.video:hover
+{
+    opacity: 85%;
+}
+.animate{
+    background: linear-gradient(90deg, #000, #cb2222, #d23030);
+    background-repeat: no-repeat;
+    background-size: 80%;
+    animation: animate 3s linear;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgba(255, 255, 255, 0);
+}
+
+@keyframes animate {
+    0% {
+        background-position: -500%;
+    }
+    100% {
+        background-position: 0%;
+    }
+}
+.animate2{
+    background: linear-gradient(90deg, #ee1616, #ce4e65, #510562);
+    background-repeat: no-repeat;
+    background-size: 80%;
+    animation: animate2 3s linear;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgba(255, 255, 255, 0);
+}
+
+@keyframes animate2 {
+    0% {
+        background-position: -500%;
+    }
+    100% {
+        background-position: 0%;
+    }
+}
+.animate3{
+    background: linear-gradient(90deg, #88a1d9, #5f83d2, #6990cc);
+    background-repeat: no-repeat;
+    background-size: 80%;
+    animation: animate3 3s linear;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgba(255, 255, 255, 0);
+}
+
+@keyframes animate3 {
+    0% {
+        background-position: -500%;
+    }
+    100% {
+        background-position: 0%;
+    }
+}

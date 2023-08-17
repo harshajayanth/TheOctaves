@@ -1,0 +1,45 @@
+.jumbotron1 {
+    background-image: url("images/Cover.png");
+    background-size: cover;
+    filter: brightness(60%);
+    border: white;
+    border-radius: 30px;
+}
+.bg-green:hover
+{
+    background-color: palegreen;
+    border-radius: 15px;
+}
+
+.bg-skyblue:hover
+{
+    background-color: #b7d9e7;
+    border-radius: 15px;
+}
+.bg-yellow:hover
+{
+    background-color: #ffeeb6;
+    border-radius: 15px;
+}
+.jumbotron2
+{
+    background-image: url("images/Ragas.jpg");
+    background-size: cover;
+    border: white;
+    border-radius: 15px;
+}
+.jumbotron3
+{
+    background-image: url("images/Ragas.jpg");
+    background-size: cover;
+    border: white;
+    border-radius: 15px;
+}
+.jumbotron3:hover
+{
+    opacity: 85%;
+}
+.jumbotron2:hover
+{
+    opacity: 85%;
+}
