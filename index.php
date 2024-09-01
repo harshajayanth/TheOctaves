@@ -67,7 +67,7 @@
                         <h3 class="card-header">Notes & Octaves</h3>
                         <div class="card-body">
                             <p class="card-text">Piano Octaves and Notes are explained here.</p>
-                            <a href="http://localhost/theoctaves/notes.php" target="_self"
+                            <a href="http://localhost:8000/notes.php" target="_self"
                                class="btn btn-sm btn-warning">View Lessons</a>
                         </div>
                     </div>
@@ -77,7 +77,7 @@
                         <h3 class="card-header">Scales</h3>
                         <div class="card-body">
                             <p class="card-text">Piano Scales are explained here.</p><br>
-                            <a href="http://localhost/theoctaves/scales.php" target="_self"
+                            <a href="http://localhost:8000/scales.php" target="_self"
                                class="btn btn-sm btn-success">View Lessons</a>
                         </div>
                     </div>
@@ -87,7 +87,7 @@
                         <h3 class="card-header">Chords</h3>
                         <div class="card-body">
                             <p class="card-text">Basic Piano Chords are explained here.</p>
-                            <a href="http://localhost/theoctaves/chords.php" target="_self"
+                            <a href="http://localhost:8000/chords.php" target="_self"
                                class="btn btn-sm btn-primary">View Lessons</a>
                         </div>
                     </div>

@@ -14,7 +14,7 @@
 </head>
 <body>
 <nav class="navbar navbar-expand-lg navbar-light bg-light shadow-sm">
-    <a class="navbar-brand text-decoration-none" href="http://localhost/theoctaves/#home">
+    <a class="navbar-brand text-decoration-none" href="http://localhost:8000/#home">
         <span class="img-fluid" data-toggle="tooltip" data-placement="bottom" title="Home"><img
                     src="images/logocrop.png" width="40" height="40"></span>
     </a>
